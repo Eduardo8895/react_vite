@@ -1,0 +1,24 @@
+{
+  "name": "atividade_react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Eduardo8895/react_vite#readme",
+  "bugs": {
+    "url": "https://github.com/Eduardo8895/react_vite/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduardo8895/react_vite.git"
+  },
+  "license": "ISC",
+  "author": "eduardo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "vise": "^3.0.2"
+  }
+}
